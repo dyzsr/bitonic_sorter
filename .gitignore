@@ -1,0 +1,6 @@
+.vscode
+.idea
+*.swp
+*.o
+*.a
+*/bitonic_sorter
